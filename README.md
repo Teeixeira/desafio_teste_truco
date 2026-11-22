@@ -2,6 +2,14 @@
 
 Jogo local de Truco Paulista para quatro pessoas: Dupla A (J1 e J3) contra Dupla B (J2 e J4). O motor JavaScript segue o contrato em [CONTRATO.md](CONTRATO.md); a suíte existente serve como especificação executável das regras e dos casos de teste.
 
+## Participantes do grupo
+
+| Nome | RA |
+|---|---|
+| Leonardo Teixeira de Carvalho | 24159859-2 |
+| Matheus Eduardo Polizelli | 24129411-2 |
+
+
 ## Executar os testes
 
 Requer Node.js e npm. Na pasta do projeto:
